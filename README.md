@@ -3,4 +3,4 @@
 
 # A Simple kinda todo-app Using ajax for CRUD's
 
-This app is deployed automatically on heroku using codeship CI [todo-app-camilogiraldo.heroku.com](https://todo-app-camilogiraldo.heroku.com)
+This app is deployed automatically on heroku using codeship CI [todo-app-camilogiraldo.heroku.com](https://todoapp-camilogiraldo.heroku.com)
